@@ -1,0 +1,27 @@
+Q1: How does the family background affects students' performance?
+Analysis 1: Family Size vs Marks
+Analysis 2: Parents' Marriage Status vs Absences vs Marks
+Analysis 3: Parents' Education Level vs Marks
+Analysis 4: Father's Job vs Marks
+Analysis 5: Mother's Job vs Marks
+
+Q2: How does extra educational support affects students' performance?
+Analysis 1: School Supplement vs Marks
+Analysis 2: Family Support vs Marks
+Analysis 3: Paid Classes vs Marks
+
+Q3: How does relationships affects students' performance?
+Analysis 1: Romantic Relationship vs Marks
+Analysis 2: Family Relationship vs Marks
+
+Q4: How do the students' spend their time affects their performance?
+Analysis 1: Free time vs Marks
+Analysis 2: Frequency of Hanging Out with Friends vs Marks
+Analysis 3: Alcohol Consumption vs Marks
+Analysis 4: Study Time vs Marks
+
+Q5: How does the students' education background affect their performance?
+Analysis 1: School vs Marks
+Analysis 2: Failures in Classes vs Marks
+Analysis 3: Nursery School vs Marks
+Analysis 4: Desire for Higher Education vs Marks
